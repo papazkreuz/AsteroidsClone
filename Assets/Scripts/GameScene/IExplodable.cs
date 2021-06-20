@@ -1,0 +1,5 @@
+﻿interface IExplodable
+{
+    void Explode();
+}
+
